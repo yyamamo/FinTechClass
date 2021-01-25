@@ -14,25 +14,25 @@ That technology has started being applied to variety of areas in our lives such 
 
 Chronicled was incorporated by Ryan Orr, Chairman and Maurizio Greco, CTO in 2014. The CEO is Susanne Somerville. The headquarter is in San Francisco, California, estimated number of employee is 67, and estimated annual revenue is $4 million ($59.7K in revenue per employee)   
 
-Chronicled has raised a $16 million Series A funding led by Mandra Capital in January 2019. They has raised tottal of $28 million since its inception. 
+Chronicled has raised a $16 million Series A funding led by Mandra Capital in January 2019. Chronicled has raised tottal of $28 million since its inception. 
 
-## Business Activities: What Chronicled is trying to solve? 
+## What Chronicled is trying to solve? 
 
 Chronicled is trying to solve problems which companies in the pharmaceutical supply chain are facing as well as to meet enhanced regulatory requirements.  
 
-Contract and chargeback disputes always exist in the multiple levels in the pharmaceutical supply chain. Today transactions in the pharmaceutical supply chain are monitored through each company’s separate ledgers / systems which makes difficult to track records throughout the channel.  When discrepancies happen at shipments and billings, each company must investigate a transaction individually. Such investigation costs labor and time, and results in financial loss.  
+Contract and chargeback disputes always exist in the multiple levels in the pharmaceutical supply chain. Today transactions in the pharmaceutical supply chain are monitored through each company’s separate ledgers / systems which make difficult to track records throughout the channel.  When discrepancies happen in shipment and billing transactions, each company must investigate the transactions individually. Such indivudal investigations consume huge labor and time, and results in financial loss.  
 
 Also, The Drug Supply Chain Security Act (DSCSA) in 2013 requires that companies in a pharmaceutical supply chain including manufacturers, repackagers, wholesalers and dispensers to ensure all prior transaction information at each transfer of ownership. They are also required to implement systems to monitor transactions, to ensure security of medicines, to investigate suspicious products, and to report to FDA and trading partners when necessary by 2023.  
 
 ## MediLedger as the Solution
-Chronicled has developed MediLedger which uses blockchain technology to solve problems mentioned above, and MediLedger was tested through the pilot project.  The participants of the pilot project includes; Chronicled as the solution provider, Amgen, Eli Lilly, Pfizer as manufacturers, Walgreens, Walmart, Maxor as dispensers, Cardinal Health, FFF Enterprises, Mckesson, AmerisourceBergen as wholesale distributors, FedEx, and Inmar as third-party logistics. MediLeder is a network which consist of private nodes and consensus nodes. Blockchain technology is used for the consensus nodes in MediLedger. 
+Chronicled has developed MediLedger which uses blockchain technology to solve the problems mentioned above. MediLedger have already tested through the pilot project. The participants of the pilot project includes; Chronicled as the solution provider, Amgen, Eli Lilly, Pfizer as manufacturers, Walgreens, Walmart, Maxor as dispensers, Cardinal Health, FFF Enterprises, Mckesson, AmerisourceBergen as wholesale distributors, FedEx, and Inmar as third-party logistics. MediLeder is a network which consist of private nodes and consensus nodes. Blockchain technology is used for the consensus nodes in MediLedger. 
 
 
 ![Exhibit 1](Exhibit_1v2.PNG)
 
 Source: *MediLedger DSCSA Pilot Project by Matt Sample, VP Manufacturing Operations AmerisourceBergen*
 
-As the use of blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to the system, not need to people to answer such inquiry.    
+Using blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to MedLedger, and they do not need to human effort to answer such inquiry. Also, when MedLidger's data can communicate with the participants's ERP system, it improves inventory management and billing processe dramatically. 
 
 ## Competitors 
 I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, I found several blockchain solution developpers in the different industries. 
@@ -57,7 +57,7 @@ Application Programing Interface (API) is another aspect to consider for MedLedg
 While some challenges and concerns remain for the implementation of MediLedger, the participants in the pilot program are supporting the project to move forward. As the FDA’s new requirements would be effective in 2023, the progress of the project would be accelerated for the next couple of years, and MediLedger might be one of the must-have systems for the companies in the pharmaceutical industry. 
 
 
-Sources: 
+### *Sources:* 
 
 Chronicled's website https://www.chronicled.com/
 
