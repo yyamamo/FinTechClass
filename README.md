@@ -14,7 +14,7 @@ That technology has started being applied to variety of areas in our lives such 
 
 Chronicled was incorporated by Ryan Orr, Chairman and Maurizio Greco, CTO in 2014. The CEO is Susanne Somerville. The headquarter is in San Francisco, California, estimated number of employee is 67, and estimated annual revenue is $4 million ($59.7K in revenue per employee)   
 
-Chronicled has raised a $16 million Series A funding led by Mandra Capital in January 2019. Chronicled has raised tottal of $28 million since its inception. 
+Chronicled has raised a $16 million Series A funding led by Mandra Capital in January 2019. Chronicled has raised total of $28 million since its inception. 
 
 ## What Chronicled is trying to solve? 
 
@@ -35,19 +35,19 @@ Source: *MediLedger DSCSA Pilot Project by Matt Sample, VP Manufacturing Operati
 Using blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to MedLedger, and they do not need to human effort to answer such inquiry. Also, when MedLidger's data can communicate with a participant's ERP system, it would improve inventory management and billing processe dramatically. 
 
 ## Competitors 
-I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, I found several blockchain solution developpers in the different industries. 
+I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, I found several blockchain solution developpers for different industries. 
 
-[**IBM**](https://www.ibm.com/blockchain) have been working on developing blockchain platform in the food supply chain and container logistic solution.  
+[**IBM**](https://www.ibm.com/blockchain) have developed blockchain platform for the food supply chain and container logistic solution.  
 
-As a more smaller start-ups, [**Sourcemap**](https://www.sourcemap.com/) and [**Skuchain**](https://www.skuchain.com/) are working on developing blockchain platform for various industries including aerospace, automotive, food & agriculture, ennagy and banking & financial industries.
+As smaller start-ups, [**Sourcemap**](https://www.sourcemap.com/) and [**Skuchain**](https://www.skuchain.com/) develop blockchain platform for various industries including aerospace, automotive, food & agriculture, ennagy and banking & financial industries.
 
-[**Kinaxis**](https://www.kinaxis.com/en) is a Canadian software company who provide supply chain management solution.
+[**Kinaxis**](https://www.kinaxis.com/en) is a Canadian company who provide supply chain management solution.
 
-[**HICX**](https://www.hicx.com/) is a Chicago based supply chain solution provider.
+[**HICX**](https://www.hicx.com/) headquarted in London and has offices in Chicago and Dubai. They provide a platform for supply chain. 
 
 ## Challenges and Recommendations
 
-Metrix to success can be measured by the number of participants in the network.  However, there is a concern on anti-trust issues for the development of the platform.  For small distributors and dispensers who cannot afford to participate in the network, it would be huge disadvantage to complete in the market. It should build the platform for any size of companies to be accessible equally. 
+Metrix to success can be measured by the number of participants in the network. For small distributors and dispensers who cannot afford to participate in the network, it would be huge disadvantage to complete in the market. MediLedger should be build for any size of companies to be accessible equally. For even a large company, swithcihg one system to another can be a very expenseive project, and might take long time to implement it.   
 
 Privacy and security are another concern for MediLedger to be implemented widely. The MediLedger pilot project report states that it can be solved by using “zero knowledge proof” technology, a set of tools that allow an item of information to be validated without the need to expose the data that demonstrate it by using cryptographic algorithms. 
 
