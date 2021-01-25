@@ -32,7 +32,7 @@ Chronicled has developed MediLedger which uses blockchain technology to solve th
 
 Source: *MediLedger DSCSA Pilot Project by Matt Sample, VP Manufacturing Operations AmerisourceBergen*
 
-Using blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to MedLedger, and they do not need to human effort to answer such inquiry. Also, when MedLidger's data can communicate with the participants's ERP system, it improves inventory management and billing processe dramatically. 
+Using blockchain technology, the consensus nodes maintain immutable and transparent records, and the network participants can inquire the history of medicines to MedLedger, and they do not need to human effort to answer such inquiry. Also, when MedLidger's data can communicate with a participant's ERP system, it would improve inventory management and billing processe dramatically. 
 
 ## Competitors 
 I could not find another blockchain developer which focus on improving the pharmaceutical supply chain.  However, I found several blockchain solution developpers in the different industries. 
@@ -49,7 +49,7 @@ As a more smaller start-ups, [**Sourcemap**](https://www.sourcemap.com/) and [**
 
 Metrix to success can be measured by the number of participants in the network.  However, there is a concern on anti-trust issues for the development of the platform.  For small distributors and dispensers who cannot afford to participate in the network, it would be huge disadvantage to complete in the market. It should build the platform for any size of companies to be accessible equally. 
 
-Privacy and security are another concern for MediLedger to be implemented widely.  The report of the MediLedger pilot project states that it can be solved by using “zero knowledge proof” technology, a set of tools that allow an item of information to be validated without the need to expose the data that demonstrate it by using cryptographic algorithms. 
+Privacy and security are another concern for MediLedger to be implemented widely. The MediLedger pilot project report states that it can be solved by using “zero knowledge proof” technology, a set of tools that allow an item of information to be validated without the need to expose the data that demonstrate it by using cryptographic algorithms. 
 
 Application Programing Interface (API) is another aspect to consider for MedLedger's success. The network participants have been using their own systems, and they need to communucate MediLedger network for streamlied processes.    
 
